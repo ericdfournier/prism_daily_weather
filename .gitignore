@@ -1,0 +1,6 @@
+# Data Files
+*.zip
+*.csv 
+
+# File System
+*.DS_Store
